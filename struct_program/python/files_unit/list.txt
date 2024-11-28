@@ -1,0 +1,620 @@
+From: Nils Lohner <lohner@ICD.Teradyne.COM>
+From: Nils Lohner <lohner@spi-inc.org>
+From: Ian Jackson <ian@chiark.greenend.org.uk>
+From: Ed Boraas <ed@tao.ca>
+From: Ole J. Tetlie <olet@ifi.uio.no>
+From: Dr. Rich Artym <rartym@galacta.demon.co.uk>
+From: J.H.M. Dassen <jdassen@wi.leidenuniv.nl>
+From: Martin Schulze <joey@finlandia.Infodrom.North.DE>
+From: J.H.M. Dassen <jdassen@wi.leidenuniv.nl>
+From: Bob Hoehne <hoehne@suntan.eng.usf.edu>
+From: J.H.M. Dassen <jdassen@wi.leidenuniv.nl>
+From: Ben Pfaff <pfaffben@pilot.msu.edu>
+From: Richard G. Roberto <robertor@typhoon.co.jp>
+From: J.H.M. Dassen <jdassen@wi.leidenuniv.nl>
+From: Ean R . Schuessler <ean@novare.net>
+From: Tor Slettnes <tor@slett.net>
+From: Nils Lohner <lohner@debian.org>
+From: Ean R . Schuessler <ean@novare.net>
+From: Nils Lohner <lohner@typhoon.icd.teradyne.com>
+From: Tor Slettnes <tor@slett.net>
+From: Ean R . Schuessler <ean@novare.net>
+From: Ean R . Schuessler <ean@novare.net>
+From: Nils Lohner <lohner@typhoon.icd.teradyne.com>
+From: Nils Lohner <lohner@spi-inc.org>
+From: Martin Schulze <joey@finlandia.Infodrom.North.DE>
+From: Nils Lohner <lohner@typhoon.icd.teradyne.com>
+From: Wichert Akkerman <wichert@cs.leidenuniv.nl>
+From: Wichert Akkerman <wichert@cs.leidenuniv.nl>
+From: Lynn Winebarger <owinebar@se232.math.indiana.edu>
+From: Ean R . Schuessler <ean@novare.net>
+From: Nils Lohner <lohner@spi-inc.org>
+From: Ean R . Schuessler <ean@novare.net>
+From: Marco d'Itri <md@linux.it>
+From: Lynn Winebarger <owinebar@se232.math.indiana.edu>
+From: J.H.M. Dassen <jdassen@wi.leidenuniv.nl>
+From: Marco d'Itri <md@linux.it>
+From: Darren O. Benham <gecko@benham.net>
+From: Jules Bean <jmlb2@hermes.cam.ac.uk>
+From: Nils Lohner <lohner@typhoon.icd.teradyne.com>
+From: Christoph Lameter <christoph@lameter.com>
+From: Richard Bullington <rbulling@microstate.com>
+From: Nils Lohner <lohner@spi-inc.org>
+From: Wichert Akkerman <wichert@cs.leidenuniv.nl>
+From: Christoph Lameter <christoph@lameter.com>
+From: Darren Benham <gecko@benham.net>
+From: Nils Lohner <lohner@typhoon.icd.teradyne.com>
+From: Lynn Winebarger <owinebar@se232.math.indiana.edu>
+From: Jules Bean <jmlb2@hermes.cam.ac.uk>
+From: J.H.M. Dassen <jdassen@wi.leidenuniv.nl>
+From: Ben Collins <bcollins@debian.org>
+From: Joseph Carter <knghtbrd@debian.org>
+From: Darren Benham <gecko@benham.net>
+From: Bruce Hams <bruce@hams.com>
+From: Tor Slettnes <tor@slett.net>
+From: Russell Brady <brady2@apple.com>
+From: Steve Dunham <dunham@cse.msu.edu>
+From: Tor Slettnes <tor@slett.net>
+From: Marcelo E. Magallon <mmagallo@efis.ucr.ac.cr>
+From: Lynn Winebarger <owinebar@se232.math.indiana.edu>
+From: Russell Brady <brady2@apple.com>
+From: Russell Brady <brady2@apple.com>
+From: Lynn Winebarger <owinebar@se232.math.indiana.edu>
+From: Richard Stallman <rms@gnu.org>
+From: Sven LUTHER <luther@maxime.u-strasbg.fr>
+From: Jules Bean <jmlb2@hermes.cam.ac.uk>
+From: Gregor Hoffleit <flight@vogon.mathi.uni-heidelberg.de>
+From: Darren Benham <gecko@benham.net>
+From: Nils Lohner <lohner@spi-inc.org>
+From: Darren Benham <gecko@benham.net>
+From: Nils Lohner <lohner@spi-inc.org>
+From: Darren Benham <gecko@benham.net>
+From: Ean R . Schuessler <ean@novare.net>
+From: Ean R . Schuessler <ean@novare.net>
+From: Ian Jackson <ian@chiark.greenend.org.uk>
+From: Nils Lohner <lohner@typhoon.icd.teradyne.com>
+From: Lynn Winebarger <owinebar@se232.math.indiana.edu>
+From: J.H.M. Dassen <jdassen@wi.leidenuniv.nl>
+From: Ean R . Schuessler <ean@novare.net>
+From: Dale Scheetz <dwarf@polaris.net>
+From: Richard Stallman <rms@gnu.org>
+From: J.H.M. Dassen <jdassen@wi.leidenuniv.nl>
+From: Pierre Sarrazin <ps@cam._nospam_.org>
+From: Craig Sanders <cas@taz.net.au>
+From: Lynn Winebarger <owinebar@se232.math.indiana.edu>
+From: Ean R . Schuessler <ean@novare.net>
+From: Darren Benham <gecko@debian.org>
+From: Ean R . Schuessler <ean@novare.net>
+From: Ean R . Schuessler <ean@novare.net>
+From: Lynn Winebarger <owinebar@se232.math.indiana.edu>
+From: Lynn Winebarger <owinebar@se232.math.indiana.edu>
+From: Ean R . Schuessler <ean@novare.net>
+From: Wichert Akkerman <wichert@cs.leidenuniv.nl>
+From: Nils Lohner <lohner@spi-inc.org>
+From: Darren Benham <gecko@debian.org>
+From: Will Lowe <harpo@UDel.Edu>
+From: Darren O. Benham <gecko@debian.org>
+From: Richard Stallman <rms@gnu.org>
+From: Will Lowe <harpo@UDel.Edu>
+From: Joseph Carter <knghtbrd@debian.org>
+From: Lynn Winebarger <owinebar@se232.math.indiana.edu>
+From: Darren Benham <gecko@benham.net>
+From: Nils Lohner <lohner@typhoon.icd.teradyne.com>
+From: Nils Lohner <lohner@typhoon.icd.teradyne.com>
+From: Nils Lohner <lohner@spi-inc.org>
+From: Will Lowe <harpo@UDel.Edu>
+From: Darren Benham <gecko@benham.net>
+From: Dale Scheetz <dwarf@polaris.net>
+From: Darren O. Benham <gecko@debian.org>
+From: Wichert Akkerman <wichert@cs.leidenuniv.nl>
+From: Luis Francisco Gonzalez <luisgh@cogs.susx.ac.uk>
+From: Nils Lohner <lohner@typhoon.icd.teradyne.com>
+From: Will Lowe <harpo@UDel.Edu>
+From: Ean R . Schuessler <ean@novare.net>
+From: Ean R . Schuessler <ean@novare.net>
+From: Stephen Crowley <crow@debian.org>
+From: Richard Stallman <rms@gnu.org>
+From: Dale Scheetz <dwarf@polaris.net>
+From: Darren Benham <gecko@benham.net>
+From: Dale Scheetz <dwarf@polaris.net>
+From: Darren Benham <gecko@benham.net>
+From: Nils Lohner <lohner@spi-inc.org>
+From: Nils Lohner <lohner@spi-inc.org>
+From: Christoph Lameter <christoph@lameter.com>
+From: Joseph Carter <knghtbrd@debian.org>
+From: Wichert Akkerman <wichert@cs.leidenuniv.nl>
+From: Wichert Akkerman <wichert@cs.leidenuniv.nl>
+From: Christoph Lameter <christoph@lameter.com>
+From: Wichert Akkerman <wichert@cs.leidenuniv.nl>
+From: Darren Benham <gecko@benham.net>
+From: Darren Benham <gecko@benham.net>
+From: Christoph Lameter <christoph@lameter.com>
+From: Christoph Lameter <christoph@lameter.com>
+From: Johnie Ingram <johnie@netgod.net>
+From: Darren Benham <gecko@benham.net>
+From: Christoph Lameter <christoph@lameter.com>
+From: Marcelo E. Magallon <mmagallo@efis.ucr.ac.cr>
+From: Nils Lohner <lohner@typhoon.icd.teradyne.com>
+From: Bruce Perens <bruce@perens.com>
+From: Joseph Carter <knghtbrd@debian.org>
+From: Lynn Winebarger <owinebar@se232.math.indiana.edu>
+From: Nils Lohner <lohner@spi-inc.org>
+From: Christoph Lameter <christoph@lameter.com>
+From: Havoc Pennington <rhp@zirx.pair.com>
+From: Will Lowe <harpo@UDel.Edu>
+From: Darren Benham <gecko@benham.net>
+From: Joseph Carter <knghtbrd@debian.org>
+From: Anthony Towns <aj@azure.humbug.org.au>
+From: Bruce Perens <bruce@perens.com>
+From: Anthony Towns <aj@azure.humbug.org.au>
+From: Nils Lohner <lohner@ICD.Teradyne.COM>
+From: Nils Lohner <lohner@spi-inc.org>
+From: Ian Jackson <ian@chiark.greenend.org.uk>
+From: Ed Boraas <ed@tao.ca>
+From: Ole J. Tetlie <olet@ifi.uio.no>
+From: Dr. Rich Artym <rartym@galacta.demon.co.uk>
+From: J.H.M. Dassen <jdassen@wi.leidenuniv.nl>
+From: Martin Schulze <joey@finlandia.Infodrom.North.DE>
+From: J.H.M. Dassen <jdassen@wi.leidenuniv.nl>
+From: Bob Hoehne <hoehne@suntan.eng.usf.edu>
+From: J.H.M. Dassen <jdassen@wi.leidenuniv.nl>
+From: Ben Pfaff <pfaffben@pilot.msu.edu>
+From: Richard G. Roberto <robertor@typhoon.co.jp>
+From: J.H.M. Dassen <jdassen@wi.leidenuniv.nl>
+From: Ean R . Schuessler <ean@novare.net>
+From: Tor Slettnes <tor@slett.net>
+From: Nils Lohner <lohner@debian.org>
+From: Ean R . Schuessler <ean@novare.net>
+From: Nils Lohner <lohner@typhoon.icd.teradyne.com>
+From: Tor Slettnes <tor@slett.net>
+From: Ean R . Schuessler <ean@novare.net>
+From: Ean R . Schuessler <ean@novare.net>
+From: Nils Lohner <lohner@typhoon.icd.teradyne.com>
+From: Nils Lohner <lohner@spi-inc.org>
+From: Martin Schulze <joey@finlandia.Infodrom.North.DE>
+From: Nils Lohner <lohner@typhoon.icd.teradyne.com>
+From: Wichert Akkerman <wichert@cs.leidenuniv.nl>
+From: Wichert Akkerman <wichert@cs.leidenuniv.nl>
+From: Lynn Winebarger <owinebar@se232.math.indiana.edu>
+From: Ean R . Schuessler <ean@novare.net>
+From: Nils Lohner <lohner@spi-inc.org>
+From: Ean R . Schuessler <ean@novare.net>
+From: Marco d'Itri <md@linux.it>
+From: Lynn Winebarger <owinebar@se232.math.indiana.edu>
+From: J.H.M. Dassen <jdassen@wi.leidenuniv.nl>
+From: Marco d'Itri <md@linux.it>
+From: Darren O. Benham <gecko@benham.net>
+From: Jules Bean <jmlb2@hermes.cam.ac.uk>
+From: Nils Lohner <lohner@typhoon.icd.teradyne.com>
+From: Christoph Lameter <christoph@lameter.com>
+From: Richard Bullington <rbulling@microstate.com>
+From: Nils Lohner <lohner@spi-inc.org>
+From: Wichert Akkerman <wichert@cs.leidenuniv.nl>
+From: Christoph Lameter <christoph@lameter.com>
+From: Darren Benham <gecko@benham.net>
+From: Nils Lohner <lohner@typhoon.icd.teradyne.com>
+From: Lynn Winebarger <owinebar@se232.math.indiana.edu>
+From: Jules Bean <jmlb2@hermes.cam.ac.uk>
+From: J.H.M. Dassen <jdassen@wi.leidenuniv.nl>
+From: Ben Collins <bcollins@debian.org>
+From: Joseph Carter <knghtbrd@debian.org>
+From: Darren Benham <gecko@benham.net>
+From: Bruce Hams <bruce@hams.com>
+From: Tor Slettnes <tor@slett.net>
+From: Russell Brady <brady_new@apple.com>
+From: Steve Dunham <dunham@cse.msu.edu>
+From: Tor Slettnes <tor@slett.net>
+From: Marcelo E. Magallon <mmagallo@efis.ucr.ac.cr>
+From: Lynn Winebarger <owinebar@se232.math.indiana.edu>
+From: Russell Brady <brady_new@apple.com>
+From: Russell Brady <brady_new@apple.com>
+From: Lynn Winebarger <owinebar@se232.math.indiana.edu>
+From: Richard Stallman <rms@gnu.org>
+From: Sven LUTHER <luther@maxime.u-strasbg.fr>
+From: Jules Bean <jmlb2@hermes.cam.ac.uk>
+From: Gregor Hoffleit <flight@vogon.mathi.uni-heidelberg.de>
+From: Darren Benham <gecko@benham.net>
+From: Nils Lohner <lohner@spi-inc.org>
+From: Darren Benham <gecko@benham.net>
+From: Nils Lohner <lohner@spi-inc.org>
+From: Darren Benham <gecko@benham.net>
+From: Ean R . Schuessler <ean@novare.net>
+From: Ean R . Schuessler <ean@novare.net>
+From: Ian Jackson <ian@chiark.greenend.org.uk>
+From: Nils Lohner <lohner@typhoon.icd.teradyne.com>
+From: Lynn Winebarger <owinebar@se232.math.indiana.edu>
+From: J.H.M. Dassen <jdassen@wi.leidenuniv.nl>
+From: Ean R . Schuessler <ean@novare.net>
+From: Dale Scheetz <dwarf@polaris.net>
+From: Richard Stallman <rms@gnu.org>
+From: J.H.M. Dassen <jdassen@wi.leidenuniv.nl>
+From: Pierre Sarrazin <ps@cam._nospam_.org>
+From: Craig Sanders <cas@taz.net.au>
+From: Lynn Winebarger <owinebar@se232.math.indiana.edu>
+From: Ean R . Schuessler <ean@novare.net>
+From: Darren Benham <gecko@debian.org>
+From: Ean R . Schuessler <ean@novare.net>
+From: Ean R . Schuessler <ean@novare.net>
+From: Lynn Winebarger <owinebar@se232.math.indiana.edu>
+From: Lynn Winebarger <owinebar@se232.math.indiana.edu>
+From: Ean R . Schuessler <ean@novare.net>
+From: Wichert Akkerman <wichert@cs.leidenuniv.nl>
+From: Nils Lohner <lohner@spi-inc.org>
+From: Darren Benham <gecko@debian.org>
+From: Will Lowe <harpo@UDel.Edu>
+From: Darren O. Benham <gecko@debian.org>
+From: Richard Stallman <rms@gnu.org>
+From: Will Lowe <harpo@UDel.Edu>
+From: Joseph Carter <knghtbrd@debian.org>
+From: Lynn Winebarger <owinebar@se232.math.indiana.edu>
+From: Darren Benham <gecko@benham.net>
+From: Nils Lohner <lohner@typhoon.icd.teradyne.com>
+From: Nils Lohner <lohner@typhoon.icd.teradyne.com>
+From: Nils Lohner <lohner@spi-inc.org>
+From: Will Lowe <harpo@UDel.Edu>
+From: Darren Benham <gecko@benham.net>
+From: Dale Scheetz <dwarf@polaris.net>
+From: Darren O. Benham <gecko@debian.org>
+From: Wichert Akkerman <wichert@cs.leidenuniv.nl>
+From: Luis Francisco Gonzalez <luisgh@cogs.susx.ac.uk>
+From: Nils Lohner <lohner@typhoon.icd.teradyne.com>
+From: Will Lowe <harpo@UDel.Edu>
+From: Ean R . Schuessler <ean@novare.net>
+From: Ean R . Schuessler <ean@novare.net>
+From: Stephen Crowley <crow@debian.org>
+From: Richard Stallman <rms@gnu.org>
+From: Dale Scheetz <dwarf@polaris.net>
+From: Darren Benham <gecko@benham.net>
+From: Dale Scheetz <dwarf@polaris.net>
+From: Darren Benham <gecko@benham.net>
+From: Nils Lohner <lohner@spi-inc.org>
+From: Nils Lohner <lohner@spi-inc.org>
+From: Christoph Lameter <christoph@lameter.com>
+From: Joseph Carter <knghtbrd@debian.org>
+From: Wichert Akkerman <wichert@cs.leidenuniv.nl>
+From: Wichert Akkerman <wichert@cs.leidenuniv.nl>
+From: Christoph Lameter <christoph@lameter.com>
+From: Wichert Akkerman <wichert@cs.leidenuniv.nl>
+From: Darren Benham <gecko@benham.net>
+From: Darren Benham <gecko@benham.net>
+From: Christoph Lameter <christoph@lameter.com>
+From: Christoph Lameter <christoph@lameter.com>
+From: Johnie Ingram <johnie@netgod.net>
+From: Darren Benham <gecko@benham.net>
+From: Christoph Lameter <christoph@lameter.com>
+From: Marcelo E. Magallon <mmagallo@efis.ucr.ac.cr>
+From: Nils Lohner <lohner@typhoon.icd.teradyne.com>
+From: Bruce Perens <bruce@perens.com>
+From: Joseph Carter <knghtbrd@debian.org>
+From: Lynn Winebarger <owinebar@se232.math.indiana.edu>
+From: Nils Lohner <lohner@spi-inc.org>
+From: Christoph Lameter <christoph@lameter.com>
+From: Havoc Pennington <rhp@zirx.pair.com>
+From: Will Lowe <harpo@UDel.Edu>
+From: Darren Benham <gecko@benham.net>
+From: Joseph Carter <knghtbrd@debian.org>
+From: Anthony Towns <aj@azure.humbug.org.au>
+From: Bruce Perens <bruce@perens.com>
+From: Anthony Towns <aj@azure.humbug.org.au>
+From: Nils Lohner <lohner@ICD.Teradyne.COM>
+From: Nils Lohner <lohner@spi-inc.org>
+From: Ian Jackson <ian@chiark.greenend.org.uk>
+From: Ed Boraas <ed@tao.ca>
+From: Ole J. Tetlie <olet@ifi.uio.no>
+From: Dr. Rich Artym <rartym@galacta.demon.co.uk>
+From: J.H.M. Dassen <jdassen@wi.leidenuniv.nl>
+From: Martin Schulze <joey@finlandia.Infodrom.North.DE>
+From: J.H.M. Dassen <jdassen@wi.leidenuniv.nl>
+From: Bob Hoehne <hoehne@suntan.eng.usf.edu>
+From: J.H.M. Dassen <jdassen@wi.leidenuniv.nl>
+From: Ben Pfaff <pfaffben@pilot.msu.edu>
+From: Richard G. Roberto <robertor@typhoon.co.jp>
+From: J.H.M. Dassen <jdassen@wi.leidenuniv.nl>
+From: Ean R . Schuessler <ean@novare.net>
+From: Tor Slettnes <tor@slett.net>
+From: Nils Lohner <lohner@debian.org>
+From: Ean R . Schuessler <ean@novare.net>
+From: Nils Lohner <lohner@typhoon.icd.teradyne.com>
+From: Tor Slettnes <tor@slett.net>
+From: Ean R . Schuessler <ean@novare.net>
+From: Ean R . Schuessler <ean@novare.net>
+From: Nils Lohner <lohner@typhoon.icd.teradyne.com>
+From: Nils Lohner <lohner@spi-inc.org>
+From: Martin Schulze <joey@finlandia.Infodrom.North.DE>
+From: Nils Lohner <lohner@typhoon.icd.teradyne.com>
+From: Wichert Akkerman <wichert@cs.leidenuniv.nl>
+From: Wichert Akkerman <wichert@cs.leidenuniv.nl>
+From: Lynn Winebarger <owinebar@se232.math.indiana.edu>
+From: Ean R . Schuessler <ean@novare.net>
+From: Nils Lohner <lohner@spi-inc.org>
+From: Ean R . Schuessler <ean@novare.net>
+From: Marco d'Itri <md@linux.it>
+From: Lynn Winebarger <owinebar@se232.math.indiana.edu>
+From: J.H.M. Dassen <jdassen@wi.leidenuniv.nl>
+From: Marco d'Itri <md@linux.it>
+From: Darren O. Benham <gecko@benham.net>
+From: Jules Bean <jmlb2@hermes.cam.ac.uk>
+From: Nils Lohner <lohner@typhoon.icd.teradyne.com>
+From: Christoph Lameter <christoph@lameter.com>
+From: Richard Bullington <rbulling@microstate.com>
+From: Nils Lohner <lohner@spi-inc.org>
+From: Wichert Akkerman <wichert@cs.leidenuniv.nl>
+From: Christoph Lameter <christoph@lameter.com>
+From: Darren Benham <gecko@benham.net>
+From: Nils Lohner <lohner@typhoon.icd.teradyne.com>
+From: Lynn Winebarger <owinebar@se232.math.indiana.edu>
+From: Jules Bean <jmlb2@hermes.cam.ac.uk>
+From: J.H.M. Dassen <jdassen@wi.leidenuniv.nl>
+From: Ben Collins <bcollins@debian.org>
+From: Joseph Carter <knghtbrd@debian.org>
+From: Darren Benham <gecko@benham.net>
+From: Bruce Hams <bruce@hams.com>
+From: Tor Slettnes <tor@slett.net>
+From: Russell Brady <brady2@apple.com>
+From: Steve Dunham <dunham@cse.msu.edu>
+From: Tor Slettnes <tor@slett.net>
+From: Marcelo E. Magallon <mmagallo@efis.ucr.ac.cr>
+From: Lynn Winebarger <owinebar@se232.math.indiana.edu>
+From: Russell Brady <brady2@apple.com>
+From: Russell Brady <brady2@apple.com>
+From: Lynn Winebarger <owinebar@se232.math.indiana.edu>
+From: Richard Stallman <rms@gnu.org>
+From: Sven LUTHER <luther@maxime.u-strasbg.fr>
+From: Jules Bean <jmlb2@hermes.cam.ac.uk>
+From: Gregor Hoffleit <flight@vogon.mathi.uni-heidelberg.de>
+From: Darren Benham <gecko@benham.net>
+From: Nils Lohner <lohner@spi-inc.org>
+From: Darren Benham <gecko@benham.net>
+From: Nils Lohner <lohner@spi-inc.org>
+From: Darren Benham <gecko@benham.net>
+From: Ean R . Schuessler <ean@novare.net>
+From: Ean R . Schuessler <ean@novare.net>
+From: Ian Jackson <ian@chiark.greenend.org.uk>
+From: Nils Lohner <lohner@typhoon.icd.teradyne.com>
+From: Lynn Winebarger <owinebar@se232.math.indiana.edu>
+From: J.H.M. Dassen <jdassen@wi.leidenuniv.nl>
+From: Ean R . Schuessler <ean@novare.net>
+From: Dale Scheetz <dwarf@polaris.net>
+From: Richard Stallman <rms@gnu.org>
+From: J.H.M. Dassen <jdassen@wi.leidenuniv.nl>
+From: Pierre Sarrazin <ps@cam._nospam_.org>
+From: Craig Sanders <cas@taz.net.au>
+From: Lynn Winebarger <owinebar@se232.math.indiana.edu>
+From: Ean R . Schuessler <ean@novare.net>
+From: Darren Benham <gecko@debian.org>
+From: Ean R . Schuessler <ean@novare.net>
+From: Ean R . Schuessler <ean@novare.net>
+From: Lynn Winebarger <owinebar@se232.math.indiana.edu>
+From: Lynn Winebarger <owinebar@se232.math.indiana.edu>
+From: Ean R . Schuessler <ean@novare.net>
+From: Wichert Akkerman <wichert@cs.leidenuniv.nl>
+From: Nils Lohner <lohner@spi-inc.org>
+From: Darren Benham <gecko@debian.org>
+From: Will Lowe <harpo@UDel.Edu>
+From: Darren O. Benham <gecko@debian.org>
+From: Richard Stallman <rms@gnu.org>
+From: Will Lowe <harpo@UDel.Edu>
+From: Joseph Carter <knghtbrd@debian.org>
+From: Lynn Winebarger <owinebar@se232.math.indiana.edu>
+From: Darren Benham <gecko@benham.net>
+From: Nils Lohner <lohner@typhoon.icd.teradyne.com>
+From: Nils Lohner <lohner@typhoon.icd.teradyne.com>
+From: Nils Lohner <lohner@spi-inc.org>
+From: Will Lowe <harpo@UDel.Edu>
+From: Darren Benham <gecko@benham.net>
+From: Dale Scheetz <dwarf@polaris.net>
+From: Darren O. Benham <gecko@debian.org>
+From: Wichert Akkerman <wichert@cs.leidenuniv.nl>
+From: Luis Francisco Gonzalez <luisgh@cogs.susx.ac.uk>
+From: Nils Lohner <lohner@typhoon.icd.teradyne.com>
+From: Will Lowe <harpo@UDel.Edu>
+From: Ean R . Schuessler <ean@novare.net>
+From: Ean R . Schuessler <ean@novare.net>
+From: Stephen Crowley <crow@debian.org>
+From: Richard Stallman <rms@gnu.org>
+From: Dale Scheetz <dwarf@polaris.net>
+From: Darren Benham <gecko@benham.net>
+From: Dale Scheetz <dwarf@polaris.net>
+From: Darren Benham <gecko@benham.net>
+From: Nils Lohner <lohner@spi-inc.org>
+From: Nils Lohner <lohner@spi-inc.org>
+From: Christoph Lameter <christoph@lameter.com>
+From: Joseph Carter <knghtbrd@debian.org>
+From: Wichert Akkerman <wichert@cs.leidenuniv.nl>
+From: Wichert Akkerman <wichert@cs.leidenuniv.nl>
+From: Christoph Lameter <christoph@lameter.com>
+From: Wichert Akkerman <wichert@cs.leidenuniv.nl>
+From: Darren Benham <gecko@benham.net>
+From: Darren Benham <gecko@benham.net>
+From: Christoph Lameter <christoph@lameter.com>
+From: Christoph Lameter <christoph@lameter.com>
+From: Johnie Ingram <johnie@netgod.net>
+From: Darren Benham <gecko@benham.net>
+From: Christoph Lameter <christoph@lameter.com>
+From: Marcelo E. Magallon <mmagallo@efis.ucr.ac.cr>
+From: Nils Lohner <lohner@typhoon.icd.teradyne.com>
+From: Bruce Perens <bruce@perens.com>
+From: Joseph Carter <knghtbrd@debian.org>
+From: Lynn Winebarger <owinebar@se232.math.indiana.edu>
+From: Nils Lohner <lohner@spi-inc.org>
+From: Christoph Lameter <christoph@lameter.com>
+From: Havoc Pennington <rhp@zirx.pair.com>
+From: Will Lowe <harpo@UDel.Edu>
+From: Darren Benham <gecko@benham.net>
+From: Joseph Carter <knghtbrd@debian.org>
+From: Anthony Towns <aj@azure.humbug.org.au>
+From: Bruce Perens <bruce@perens.com>
+From: Anthony Towns <aj@azure.humbug.org.au>
+From: Nils Lohner <lohner@ICD.Teradyne.COM>
+From: Nils Lohner <lohner@spi-inc.org>
+From: Ian Jackson <ian@chiark.greenend.org.uk>
+From: Ed Boraas <ed@tao.ca>
+From: Ole J. Tetlie <olet@ifi.uio.no>
+From: Dr. Rich Artym <rartym@galacta.demon.co.uk>
+From: J.H.M. Dassen <jdassen@wi.leidenuniv.nl>
+From: Martin Schulze <joey@finlandia.Infodrom.North.DE>
+From: J.H.M. Dassen <jdassen@wi.leidenuniv.nl>
+From: Bob Hoehne <hoehne@suntan.eng.usf.edu>
+From: J.H.M. Dassen <jdassen@wi.leidenuniv.nl>
+From: Ben Pfaff <pfaffben@pilot.msu.edu>
+From: Richard G. Roberto <robertor@typhoon.co.jp>
+From: J.H.M. Dassen <jdassen@wi.leidenuniv.nl>
+From: Ean R . Schuessler <ean@novare.net>
+From: Tor Slettnes <tor@slett.net>
+From: Nils Lohner <lohner@debian.org>
+From: Ean R . Schuessler <ean@novare.net>
+From: Nils Lohner <lohner@typhoon.icd.teradyne.com>
+From: Tor Slettnes <tor@slett.net>
+From: Ean R . Schuessler <ean@novare.net>
+From: Ean R . Schuessler <ean@novare.net>
+From: Nils Lohner <lohner@typhoon.icd.teradyne.com>
+From: Nils Lohner <lohner@spi-inc.org>
+From: Martin Schulze <joey@finlandia.Infodrom.North.DE>
+From: Nils Lohner <lohner@typhoon.icd.teradyne.com>
+From: Wichert Akkerman <wichert@cs.leidenuniv.nl>
+From: Wichert Akkerman <wichert@cs.leidenuniv.nl>
+From: Lynn Winebarger <owinebar@se232.math.indiana.edu>
+From: Ean R . Schuessler <ean@novare.net>
+From: Nils Lohner <lohner@spi-inc.org>
+From: Ean R . Schuessler <ean@novare.net>
+From: Marco d'Itri <md@linux.it>
+From: Lynn Winebarger <owinebar@se232.math.indiana.edu>
+From: J.H.M. Dassen <jdassen@wi.leidenuniv.nl>
+From: Marco d'Itri <md@linux.it>
+From: Darren O. Benham <gecko@benham.net>
+From: Jules Bean <jmlb2@hermes.cam.ac.uk>
+From: Nils Lohner <lohner@typhoon.icd.teradyne.com>
+From: Christoph Lameter <christoph@lameter.com>
+From: Richard Bullington <rbulling@microstate.com>
+From: Nils Lohner <lohner@spi-inc.org>
+From: Wichert Akkerman <wichert@cs.leidenuniv.nl>
+From: Christoph Lameter <christoph@lameter.com>
+From: Darren Benham <gecko@benham.net>
+From: Nils Lohner <lohner@typhoon.icd.teradyne.com>
+From: Lynn Winebarger <owinebar@se232.math.indiana.edu>
+From: Jules Bean <jmlb2@hermes.cam.ac.uk>
+From: J.H.M. Dassen <jdassen@wi.leidenuniv.nl>
+From: Ben Collins <bcollins@debian.org>
+From: Joseph Carter <knghtbrd@debian.org>
+From: Darren Benham <gecko@benham.net>
+From: Bruce Hams <bruce@hams.com>
+From: Tor Slettnes <tor@slett.net>
+From: Russell Brady <brady_new@apple.com>
+From: Steve Dunham <dunham@cse.msu.edu>
+From: Tor Slettnes <tor@slett.net>
+From: Marcelo E. Magallon <mmagallo@efis.ucr.ac.cr>
+From: Lynn Winebarger <owinebar@se232.math.indiana.edu>
+From: Russell Brady <brady_new@apple.com>
+From: Russell Brady <brady_new@apple.com>
+From: Lynn Winebarger <owinebar@se232.math.indiana.edu>
+From: Richard Stallman <rms@gnu.org>
+From: Sven LUTHER <luther@maxime.u-strasbg.fr>
+From: Jules Bean <jmlb2@hermes.cam.ac.uk>
+From: Gregor Hoffleit <flight@vogon.mathi.uni-heidelberg.de>
+From: Darren Benham <gecko@benham.net>
+From: Nils Lohner <lohner@spi-inc.org>
+From: Darren Benham <gecko@benham.net>
+From: Nils Lohner <lohner@spi-inc.org>
+From: Darren Benham <gecko@benham.net>
+From: Ean R . Schuessler <ean@novare.net>
+From: Ean R . Schuessler <ean@novare.net>
+From: Ian Jackson <ian@chiark.greenend.org.uk>
+From: Nils Lohner <lohner@typhoon.icd.teradyne.com>
+From: Lynn Winebarger <owinebar@se232.math.indiana.edu>
+From: J.H.M. Dassen <jdassen@wi.leidenuniv.nl>
+From: Ean R . Schuessler <ean@novare.net>
+From: Dale Scheetz <dwarf@polaris.net>
+From: Richard Stallman <rms@gnu.org>
+From: J.H.M. Dassen <jdassen@wi.leidenuniv.nl>
+From: Pierre Sarrazin <ps@cam._nospam_.org>
+From: Craig Sanders <cas@taz.net.au>
+From: Lynn Winebarger <owinebar@se232.math.indiana.edu>
+From: Ean R . Schuessler <ean@novare.net>
+From: Darren Benham <gecko@debian.org>
+From: Ean R . Schuessler <ean@novare.net>
+From: Ean R . Schuessler <ean@novare.net>
+From: Lynn Winebarger <owinebar@se232.math.indiana.edu>
+From: Lynn Winebarger <owinebar@se232.math.indiana.edu>
+From: Ean R . Schuessler <ean@novare.net>
+From: Wichert Akkerman <wichert@cs.leidenuniv.nl>
+From: Nils Lohner <lohner@spi-inc.org>
+From: Darren Benham <gecko@debian.org>
+From: Will Lowe <harpo@UDel.Edu>
+From: Darren O. Benham <gecko@debian.org>
+From: Richard Stallman <rms@gnu.org>
+From: Will Lowe <harpo@UDel.Edu>
+From: Joseph Carter <knghtbrd@debian.org>
+From: Lynn Winebarger <owinebar@se232.math.indiana.edu>
+From: Darren Benham <gecko@benham.net>
+From: Nils Lohner <lohner@typhoon.icd.teradyne.com>
+From: Nils Lohner <lohner@typhoon.icd.teradyne.com>
+From: Nils Lohner <lohner@spi-inc.org>
+From: Will Lowe <harpo@UDel.Edu>
+From: Darren Benham <gecko@benham.net>
+From: Dale Scheetz <dwarf@polaris.net>
+From: Darren O. Benham <gecko@debian.org>
+From: Wichert Akkerman <wichert@cs.leidenuniv.nl>
+From: Luis Francisco Gonzalez <luisgh@cogs.susx.ac.uk>
+From: Nils Lohner <lohner@typhoon.icd.teradyne.com>
+From: Will Lowe <harpo@UDel.Edu>
+From: Ean R . Schuessler <ean@novare.net>
+From: Ean R . Schuessler <ean@novare.net>
+From: Stephen Crowley <crow@debian.org>
+From: Richard Stallman <rms@gnu.org>
+From: Dale Scheetz <dwarf@polaris.net>
+From: Darren Benham <gecko@benham.net>
+From: Dale Scheetz <dwarf@polaris.net>
+From: Darren Benham <gecko@benham.net>
+From: Nils Lohner <lohner@spi-inc.org>
+From: Nils Lohner <lohner@spi-inc.org>
+From: Christoph Lameter <christoph@lameter.com>
+From: Joseph Carter <knghtbrd@debian.org>
+From: Wichert Akkerman <wichert@cs.leidenuniv.nl>
+From: Wichert Akkerman <wichert@cs.leidenuniv.nl>
+From: Christoph Lameter <christoph@lameter.com>
+From: Wichert Akkerman <wichert@cs.leidenuniv.nl>
+From: Darren Benham <gecko@benham.net>
+From: Darren Benham <gecko@benham.net>
+From: Christoph Lameter <christoph@lameter.com>
+From: Christoph Lameter <christoph@lameter.com>
+From: Johnie Ingram <johnie@netgod.net>
+From: Darren Benham <gecko@benham.net>
+From: Christoph Lameter <christoph@lameter.com>
+From: Marcelo E. Magallon <mmagallo@efis.ucr.ac.cr>
+From: Nils Lohner <lohner@typhoon.icd.teradyne.com>
+From: Bruce Perens <bruce@perens.com>
+From: Joseph Carter <knghtbrd@debian.org>
+From: Lynn Winebarger <owinebar@se232.math.indiana.edu>
+From: Nils Lohner <lohner@spi-inc.org>
+From: Christoph Lameter <christoph@lameter.com>
+From: Havoc Pennington <rhp@zirx.pair.com>
+From: Will Lowe <harpo@UDel.Edu>
+From: Darren Benham <gecko@benham.net>
+From: Joseph Carter <knghtbrd@debian.org>
+From: Anthony Towns <aj@azure.humbug.org.au>
+From: Bruce Perens <bruce@perens.com>
+From: Anthony Towns <aj@azure.humbug.org.au>
+From debian  Thu Oct 29 12:21:31 1998
+From debian  Wed Nov 11 07:03:33 1998
+From debian  Mon Nov 16 09:40:23 1998
+From debian  Wed Nov 25 02:33:36 1998
+From debian  Thu Nov 26 01:28:39 1998
+From debian  Thu Nov 26 06:56:56 1998
+From debian  Thu Nov 26 07:24:26 1998
+From debian  Fri Nov 27 06:56:13 1998
+From debian  Sat Nov 28 07:35:30 1998
+From debian  Sun Nov 29 12:13:19 1998
+From debian  Thu Dec  3 05:56:18 1998
+From debian  Wed Dec 23 21:28:42 1998
+From debian  Thu Oct 29 12:21:31 1998
+From debian  Wed Nov 11 07:03:33 1998
+From debian  Mon Nov 16 09:40:23 1998
+From debian  Wed Nov 25 02:33:36 1998
+From debian  Thu Nov 26 01:28:39 1998
+From debian  Thu Nov 26 06:56:56 1998
+From debian  Thu Nov 26 07:24:26 1998
+From debian  Fri Nov 27 06:56:13 1998
+From debian  Sat Nov 28 07:35:30 1998
+From debian  Sun Nov 29 12:13:19 1998
+From debian  Thu Dec  3 05:56:18 1998
+From debian  Wed Dec 23 21:28:42 1998

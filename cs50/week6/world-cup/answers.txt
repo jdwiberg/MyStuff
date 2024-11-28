@@ -1,0 +1,19 @@
+Times:
+
+10 simulations: 0m0.024s TODO (record time using 0m0.000s format)
+100 simulations: 0m0.025s TODO (record time using 0m0.000s format)
+1000 simulations: 0m0.032s TODO (record time using 0m0.000s format)
+10000 simulations: 0m0.121s TODO (record time using 0m0.000s format)
+100000 simulations: 0m0.772s TODO (record time using 0m0.000s format)
+1000000 simulations: 0m6.932s TODO (record time using 0m0.000s format)
+
+Questions:
+
+Which predictions, if any, proved incorrect as you increased the number of simulations?: TODO
+The predictions seemed to become more accurate as N grew.
+
+Suppose you're charged a fee for each second of compute time your program uses.
+After how many simulations would you call the predictions "good enough"?: TODO
+After 10,000 simulations the results became very similar as N grew. At this 10,000 simulations mark
+the time was still under 0m0.05s. At this point I think this program was operating as quickly and the predictions did seem to be 'good enough'. I wouldn't
+use 1000 simulations because the difference between 23% and 21% is somewhat significant and the time the program saved doing 9000 less simulations was not.
